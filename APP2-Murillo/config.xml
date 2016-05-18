@@ -18,3 +18,5 @@ Francisco Murillo
 <icon src="img/phonegap.png" gap:density="mdpi" gap:platform="android" />
 <icon src="img/phonegap.png" gap:density="hdpi" gap:platform="android" />
 <icon src="img/phonegap.png" gap:density="xhdpi" gap:platform="android" />
+
+</widget>
